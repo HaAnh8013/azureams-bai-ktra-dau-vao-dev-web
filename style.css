@@ -218,6 +218,7 @@ footer > div > address > ul > li > a, img {
     padding: 1rem;
     right:0; 
     bottom: 0;
+    float: right;
 }
 
 /*content*/
